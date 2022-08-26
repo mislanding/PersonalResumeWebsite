@@ -12,6 +12,12 @@
 /.next/
 /out/
 
+# markdown
+/_post/
+
+# lockfile
+package-lock.json
+
 # production
 /build
 
